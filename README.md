@@ -1,1 +1,23 @@
-# learn-2023
+# 2023 学习计划列表
+- 后端
+  - Nest.js
+  - Pisma
+  - Moleculer
+  - Urql
+- 前端
+  - Typescript
+  - Next.js
+  - Remix
+  - svelte
+  - canvas
+- 移动端
+  - ReactNative
+- 新语言
+  - Rust
+  - Webassembly
+  - Tauri
+  - Golang
+- 其他补充
+  - 编译打包工具使用学习
+  - ES+ 新特性
+
