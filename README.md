@@ -23,6 +23,9 @@
   - tRPC
   - Urql / GraphQL
   - Nest.js 
+    - https://www.youtube.com/watch?v=mmbd5hcQUaY
+    - https://www.bilibili.com/video/BV1T44y1W7Si/?spm_id_from=333.788.recommend_more_video.4&vd_source=5949d98b83a33cf5cdccebb834c82da2
+    - https://www.bilibili.com/video/BV1fU4y1c7qh/?p=2&vd_source=5949d98b83a33cf5cdccebb834c82da2
   - Moleculer（微服务框架）
 - 基础部分
   - JavaScript

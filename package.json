@@ -1,0 +1,23 @@
+{
+  "name": "learn-2023",
+  "version": "1.0.0",
+  "description": "- 新语言   - Rust     - https://www.youtube.com/watch?v=e3-2uxHhbzs&list=PL3azK8C0kje1DUJbaOqce19j3R_-tIc4_   - Tauri   - Webassembly - 移动端   - ReactNative - 前端   - Next.js      - https://www.qiuzhi99.com/articles/react/794.html     - https://www.bilibili.com/video/BV1fU4y1c7qh?p=2&vd_source=5949d98b83a33cf5cdccebb834c82da2   - Remix      - https://www.bilibili.com/video/av338075172/?vd_source=5949d98b83a33cf5cdccebb834c82da2     - https://www.qiuzhi99.com/playlists/remix.html   - Svelte   - TypeScript - 服务端   - Prisma/2 （ORM）     - https://www.qiuzhi99.com/playlists/antdpro-prisma.html     - https://www.bilibili.com/video/BV1fU4y1c7qh?p=2&vd_source=5949d98b83a33cf5cdccebb834c82da2   - tRPC   - Urql / GraphQL   - Nest.js    - Moleculer（微服务框架） - 基础部分   - JavaScript   - Nodejs   - Canvas - 选学   - NPM Package     - framer-motion （动画）   - type-ORM （选）   - Turborepo（选）   - Vite（选）   - Golang（选）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoGoethe/learn-2023.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoGoethe/learn-2023/issues"
+  },
+  "homepage": "https://github.com/MoGoethe/learn-2023#readme",
+  "dependencies": {
+    "@nestjs/cli": "^9.2.0"
+  }
+}
